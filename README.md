@@ -13,6 +13,8 @@ The Million Songs Dataset consists of two files:
 - `triplets_file`: Contains `user_id`, `song_id`, and `listen_count` which represents user interactions with songs.
 - `metadata_file`: Contains `song_id`, `title`, `release_year`, and `artist_name`.
 
+(The dataset files are uploaded on Drive due to their larger size, [Drive Link](https://drive.google.com/drive/folders/1BxdFjDC774GiUqZcU01foMqZAgIR1XcS?usp=sharing))
+
 ## Project Overview
 The main objective of this project was to build a recommendation engine that can recommend songs to users based on their listening history and song metadata. The system provides:
 
