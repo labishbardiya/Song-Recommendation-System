@@ -153,5 +153,10 @@ content_recommendations = cr.recommend(user_id)
 hybrid_recommendations = hr.recommend(user_id)
 ```
 
+## Other Contributors
+
+- [Himanshu Garg](https://www.github.com/himanshu-garg10)
+- [Rakshika Sharma](https://www.github.com/rakshika1)
+
 ## Conclusion
 This project demonstrates the development of a song recommendation engine using popular machine learning techniques. The models are evaluated based on relevant metrics to ensure accuracy and performance.
